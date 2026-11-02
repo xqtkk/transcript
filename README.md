@@ -20,7 +20,7 @@
 Убедитесь, что у вас установлен Python. Склонируйте репозиторий и установите зависимости:
 
 ```bash
-git clone https://github.com/ВАШ_НИК/youtube-transcript.git
+git clone https://github.com/xqtkk/youtube-transcript.git
 cd youtube-transcript
 pip install -r requirements.txt
 
